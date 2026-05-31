@@ -7,8 +7,9 @@ C言語で1年生の時に制作した2DShootingゲームです。授業で作�
 **開発環境：C++/GSLIB**
 
 ## プレイ画面
-<img width="962" height="572" alt="スクリーンショット 2026-05-31 145557" src="https://github.com/user-attachments/assets/29cc7af6-f9ad-4574-b43d-5fbd57b97ff8" />
-<img width="962" height="572" alt="スクリーンショット 2026-05-31 145801" src="https://github.com/user-attachments/assets/a029d08e-dbab-4420-9224-c53aafc52664" />
+<img width="962" height="540" alt="スクリーンショット 2026-05-31 145557" src="https://github.com/user-attachments/assets/c18aeefd-6947-4e6a-9287-fbdd3334aebf" />
+<img width="962" height="540" alt="スクリーンショット 2026-05-31 145801" src="https://github.com/user-attachments/assets/e8158567-cbda-4d48-bd07-6df60acd6f29" />
+
 
 ## 担当箇所
 **・プレイヤー**
